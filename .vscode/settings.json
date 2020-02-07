@@ -1,8 +1,11 @@
 {
     "cSpell.ignoreWords": [
         "approot",
+        "errmode",
+        "exception",
         "mvc",
         "sitename",
+        "tmvc",
         "traversy",
         "urlroot"
     ]
