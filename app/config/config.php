@@ -2,17 +2,17 @@
 
     // Database Parameters
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASSWORD', '');
-    define('DB_NAME', 'tmvc');
+    define('DB_USER', '_YOUR_USER_');
+    define('DB_PASSWORD', '_YOUR_PASSWORD');
+    define('DB_NAME', 'YOUR_DB_NAME');
 
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
 
     // URL Root
-    define('URLROOT', 'http://localhost/traversymvc');
+    define('URLROOT', 'YOUR_URL');
 
     // Site Name
-    define('SITENAME', 'TraversyMVC');
+    define('SITENAME', 'YOUR_SITENAME');
 
 ?>

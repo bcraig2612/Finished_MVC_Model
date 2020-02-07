@@ -1,8 +1,10 @@
 {
     "cSpell.ignoreWords": [
         "approot",
+        "endforeach",
         "errmode",
         "exception",
+        "htaccess",
         "mvc",
         "sitename",
         "tmvc",
